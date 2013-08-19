@@ -1,14 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://blogs.heropotato.com/blog/2013/08/18/hello/</loc>
-        <lastmod>2013-08-18T23:25:31-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blogs.heropotato.com/blog/2013/08/18/markdown-test/</loc>
-        <lastmod>2013-08-18T23:38:04-04:00</lastmod>
-    </url>
-    <url>
         <loc>http://blogs.heropotato.com/blog/2013/08/19/initialization/</loc>
         <lastmod>2013-08-19T02:08:25-04:00</lastmod>
     </url>
