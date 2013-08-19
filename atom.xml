@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Heropotato]]></title>
-  <link href="http://heropotato.github.io/atom.xml" rel="self"/>
-  <link href="http://heropotato.github.io/"/>
-  <updated>2013-08-18T23:25:41-04:00</updated>
-  <id>http://heropotato.github.io/</id>
+  <title><![CDATA[Y.WEN]]></title>
+  <link href="http://blogs.heropotato.com/atom.xml" rel="self"/>
+  <link href="http://blogs.heropotato.com/"/>
+  <updated>2013-08-18T23:32:53-04:00</updated>
+  <id>http://blogs.heropotato.com/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
     <email><![CDATA[me@heropotato.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello, world!]]></title>
-    <link href="http://heropotato.github.io/blog/2013/08/18/hello/"/>
+    <link href="http://blogs.heropotato.com/blog/2013/08/18/hello/"/>
     <updated>2013-08-18T22:51:00-04:00</updated>
-    <id>http://heropotato.github.io/blog/2013/08/18/hello</id>
+    <id>http://blogs.heropotato.com/blog/2013/08/18/hello</id>
     <content type="html"><![CDATA[<h3>JavaScript</h3>
 
 <figure class='code'><figcaption><span>Javascript Array Syntax </span></figcaption>
