@@ -6,35 +6,30 @@ comments: true
 categories: 
 ---
 
-JavaScript
-----------
+###JavaScript
 {% codeblock Javascript Array Syntax lang:js %}
 var arr1 = new Array(arrayLength);
 var arr2 = new Array(element0, element1, ..., elementN);
 {% endcodeblock %}
 
-Objective C
-----------
+###Objective C
 {% codeblock lang:objc %}
 [rectangle setX: 10 y: 10 width: 20 height: 20];
 {% endcodeblock %}
 
-Java
-----
+###Java
 {% codeblock Java lang:java %}
 	public static void main(String[] args){
 		System.out.println("Hello, world!");
 	}
 {% endcodeblock %}
 
-PHP
----
+###PHP
 {% codeblock PHP lang:php %}
 <?php
 	echo "Hello, world!";
 >
 {% endcodeblock %}
 
-IMG
----
+###IMG
 {% img http://farm4.staticflickr.com/3817/9317136165_9ec750ab23_k.jpg %}
