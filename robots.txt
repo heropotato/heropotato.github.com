@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://heropotato.github.io/sitemap.xml 
