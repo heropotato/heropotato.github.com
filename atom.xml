@@ -4,7 +4,7 @@
   <title><![CDATA[Heropotato]]></title>
   <link href="http://heropotato.github.io/atom.xml" rel="self"/>
   <link href="http://heropotato.github.io/"/>
-  <updated>2013-08-18T23:19:23-04:00</updated>
+  <updated>2013-08-18T23:25:41-04:00</updated>
   <id>http://heropotato.github.io/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
@@ -18,7 +18,7 @@
     <link href="http://heropotato.github.io/blog/2013/08/18/hello/"/>
     <updated>2013-08-18T22:51:00-04:00</updated>
     <id>http://heropotato.github.io/blog/2013/08/18/hello</id>
-    <content type="html"><![CDATA[<h2>JavaScript</h2>
+    <content type="html"><![CDATA[<h3>JavaScript</h3>
 
 <figure class='code'><figcaption><span>Javascript Array Syntax </span></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -28,14 +28,14 @@
 </span></code></pre></td></tr></table></div></figure>
 
 
-<h2>Objective C</h2>
+<h3>Objective C</h3>
 
 <figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="p">[</span><span class="n">rectangle</span> <span class="nl">setX:</span> <span class="mi">10</span> <span class="nl">y:</span> <span class="mi">10</span> <span class="nl">width:</span> <span class="mi">20</span> <span class="nl">height:</span> <span class="mi">20</span><span class="p">];</span>
 </span></code></pre></td></tr></table></div></figure>
 
 
-<h2>Java</h2>
+<h3>Java</h3>
 
 <figure class='code'><figcaption><span>Java </span></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -47,7 +47,7 @@
 </span></code></pre></td></tr></table></div></figure>
 
 
-<h2>PHP</h2>
+<h3>PHP</h3>
 
 <figure class='code'><figcaption><span>PHP </span></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -59,7 +59,7 @@
 </span></code></pre></td></tr></table></div></figure>
 
 
-<h2>IMG</h2>
+<h3>IMG</h3>
 
 <p><img src="http://farm4.staticflickr.com/3817/9317136165_9ec750ab23_k.jpg"></p>
 ]]></content>
