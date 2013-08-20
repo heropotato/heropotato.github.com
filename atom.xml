@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Y.WEN]]></title>
-  <link href="http://blogs.heropotato.com/atom.xml" rel="self"/>
-  <link href="http://blogs.heropotato.com/"/>
-  <updated>2013-08-19T20:21:15-04:00</updated>
-  <id>http://blogs.heropotato.com/</id>
+  <link href="http://blog.heropotato.com/atom.xml" rel="self"/>
+  <link href="http://blog.heropotato.com/"/>
+  <updated>2013-08-19T20:21:59-04:00</updated>
+  <id>http://blog.heropotato.com/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
     <email><![CDATA[me@heropotato.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Initialization, done]]></title>
-    <link href="http://blogs.heropotato.com/blog/2013/08/19/initialization/"/>
+    <link href="http://blog.heropotato.com/blog/2013/08/19/initialization/"/>
     <updated>2013-08-19T01:35:00-04:00</updated>
-    <id>http://blogs.heropotato.com/blog/2013/08/19/initialization</id>
+    <id>http://blog.heropotato.com/blog/2013/08/19/initialization</id>
     <content type="html"><![CDATA[<p>Hello, world!</p>
 
 <p>With spending a few hours on setting up and configuration, this little Jekyll blog has worked at long last. Pretty happy with it.</p>
