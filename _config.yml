@@ -21,6 +21,16 @@ subscribe_email:
 # RSS feeds can list your email address if you like
 email: me@heropotato.com
 
+
+#------------------------ #
+# Theme customizations    #
+#------------------------ #
+
+mnml_mailto: me@heropotato.com
+mnml_host_name: Heropotato
+mnml_host_url: http://www.heropotato.com
+
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
@@ -33,12 +43,18 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: rdiscount
-rdiscount:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
+markdown: kramdown #rdiscount
+#rdiscount:
+#  extensions:
+#    - autolink
+#    - footnotes
+#    - smart
+kramdown:
+  use_coderay: true
+  coderay:
+    coderay_line_numbers: nil
+    coderay_css: style #class
+
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 7          # Posts per page on the blog index
