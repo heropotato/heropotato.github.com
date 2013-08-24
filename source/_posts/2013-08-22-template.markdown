@@ -23,7 +23,7 @@ This is the template for general referencings.
 
 ###2nd-1st subtitle
 
-{% codeblock Java.java %}
+{% codeblock Java lang:java %}
 public static void main(String[] args){
 	System.out.println("Hello, world!");
 }
