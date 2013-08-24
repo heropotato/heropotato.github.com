@@ -4,7 +4,7 @@
   <title><![CDATA[wen]]></title>
   <link href="http://blog.heropotato.com/atom.xml" rel="self"/>
   <link href="http://blog.heropotato.com/"/>
-  <updated>2013-08-23T23:22:25-04:00</updated>
+  <updated>2013-08-24T00:41:09-04:00</updated>
   <id>http://blog.heropotato.com/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
@@ -22,6 +22,83 @@
     <id>http://blog.heropotato.com/blog/2013/08/23/i-have-a-dream</id>
     
     <content type="html"><![CDATA[<p><img src="http://farm4.staticflickr.com/3668/9317134263_e87445f5b1_o.jpg" /></p>
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
+    <title type="html"><![CDATA[Template]]></title>
+    <link href="http://blog.heropotato.com/blog/2013/08/22/template/"/>
+    
+    <updated>2013-08-22T00:00:00-04:00</updated>
+    <id>http://blog.heropotato.com/blog/2013/08/22/template</id>
+    
+    <content type="html"><![CDATA[<p>–
+layout: post
+title: “template”
+date: 2013-08-22 01:48
+comments: true
+published: false
+categories: 
+—</p>
+
+<p>This is the template for general referencings. </p>
+
+<blockquote><p>1st subtitle</p></blockquote>
+
+<h3 id="st-1st-subtitle">1st-1st subtitle</h3>
+
+<pre><code>Default code block in markdown
+</code></pre>
+
+<blockquote><p>2nd subtitle</p></blockquote>
+
+<h3 id="nd-1st-subtitle">2nd-1st subtitle</h3>
+
+<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span>Java </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
+<span class="line-number">2</span>
+<span class="line-number">3</span>
+</pre></td><td class="code"><pre><code class="java"><span class="line"><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">){</span>
+</span><span class="line">	<span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;Hello, world!&quot;</span><span class="o">);</span>
+</span><span class="line"><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div>
+
+<h3 id="nd-2nd-subtitle">2nd-2nd subtitle</h3>
+
+<p><span class="pullquote-right" data-pullquote="surround it like this">
+Surround your paragraph with the pull quote tags. Then when you come to
+the text you want to pull, surround it like this and that’s all there is to it.
+</span></p>
+
+<blockquote><p>3rd subtitle</p></blockquote>
+
+<p>General literal contents.</p>
+
+<p>Embeded media formats: </p>
+
+<p><img src="http://farm7.staticflickr.com/6076/6098732490_63d15bbba3_o.jpg" /></p>
+
+<blockquote><p>4th subtitle</p></blockquote>
+
+<h2 id="markups">Markups</h2>
+
+<p>The following markups are supported.  The dependencies listed are required if
+you wish to run the library.</p>
+
+<ul>
+  <li><a href="http://daringfireball.net/projects/markdown/">.markdown, .mdown, .md</a> – <code>gem install redcarpet</code> (https://github.com/vmg/redcarpet)</li>
+  <li><a href="http://www.textism.com/tools/textile/">.textile</a> – <code>gem install RedCloth</code></li>
+  <li><a href="http://rdoc.sourceforge.net/">.rdoc</a> – <code>gem install rdoc -v 3.6.1</code></li>
+  <li><a href="http://orgmode.org/">.org</a> – <code>gem install org-ruby</code></li>
+  <li><a href="http://wikicreole.org/">.creole</a> – <code>gem install creole</code></li>
+  <li><a href="http://www.mediawiki.org/wiki/Help:Formatting">.mediawiki</a> – <code>gem install wikicloth</code></li>
+  <li><a href="http://docutils.sourceforge.net/rst.html">.rst</a> – <code>easy_install docutils</code></li>
+  <li><a href="http://www.methods.co.nz/asciidoc/">.asciidoc</a> – <code>brew install asciidoc</code></li>
+  <li><a href="http://search.cpan.org/dist/perl/pod/perlpod.pod">.pod</a> – <code>Pod::Simple::HTML</code>
+comes with Perl &gt;= 5.10. Lower versions should install Pod::Simple from CPAN.</li>
+</ul>
 ]]></content>
     
   </entry>
