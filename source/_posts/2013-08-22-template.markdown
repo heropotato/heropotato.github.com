@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "template"
 date: 2013-08-22 01:48
@@ -6,7 +6,6 @@ comments: true
 published: false
 categories: 
 ---
-
 This is the template for general referencings. 
 
 {% blockquote %}
