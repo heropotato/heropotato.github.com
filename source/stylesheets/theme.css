@@ -1,9 +1,11 @@
 /*
-Syntax error: Undefined variable: "$main-color".
-        on line 7 of /Users/yongwen/octopress/sass/main.scss
+Syntax error: Undefined variable: "$white".
+        on line 2 of /Users/yongwen/octopress/sass/theme.scss
+
+1: /Users/yongwen/octopress/sass/theme.scss
 
 Backtrace:
-/Users/yongwen/octopress/sass/main.scss:7
+/Users/yongwen/octopress/sass/theme.scss:2
 /Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/script/variable.rb:49:in `_perform'
 /Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/script/node.rb:40:in `perform'
 /Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:298:in `visit_prop'
@@ -60,4 +62,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$main-color\".\A         on line 7 of /Users/yongwen/octopress/sass/main.scss"; }
+  content: "Syntax error: Undefined variable: \"$white\".\A         on line 2 of /Users/yongwen/octopress/sass/theme.scss\A \A 1: /Users/yongwen/octopress/sass/theme.scss"; }

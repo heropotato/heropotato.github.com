@@ -1,12 +1,12 @@
 /*
-Syntax error: Undefined variable: "$main-color".
-        on line 7 of /Users/yongwen/octopress/sass/main.scss
+Syntax error: Undefined mixin 'box-shadow'.
+        on line 13 of /Users/yongwen/octopress/sass/sidr.scss, in `box-shadow'
+        from line 13 of /Users/yongwen/octopress/sass/sidr.scss
 
 Backtrace:
-/Users/yongwen/octopress/sass/main.scss:7
-/Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/script/variable.rb:49:in `_perform'
-/Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/script/node.rb:40:in `perform'
-/Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:298:in `visit_prop'
+/Users/yongwen/octopress/sass/sidr.scss:13:in `box-shadow'
+/Users/yongwen/octopress/sass/sidr.scss:13
+/Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:253:in `visit_mixin'
 /Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
 /Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
 /Users/yongwen/.rvm/gems/ruby-1.9.3-p448/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
@@ -60,4 +60,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$main-color\".\A         on line 7 of /Users/yongwen/octopress/sass/main.scss"; }
+  content: "Syntax error: Undefined mixin 'box-shadow'.\A         on line 13 of /Users/yongwen/octopress/sass/sidr.scss, in `box-shadow'\A         from line 13 of /Users/yongwen/octopress/sass/sidr.scss"; }
