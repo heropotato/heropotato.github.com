@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "about"
-date: 2013-08-22 22:28
+title:
 comments: false
 sharing: false
 footer: true
