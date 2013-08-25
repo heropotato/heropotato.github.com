@@ -1,35 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://blog.heropotato.com/blog/2013/08/19/initialization/</loc>
-        <lastmod>2013-08-24T00:40:07-04:00</lastmod>
+        <loc>http://blog.heropotato.com/blog/blog/2013/08/19/initialization/</loc>
+        <lastmod>2013-08-25T02:06:48-04:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.heropotato.com/blog/2013/08/23/i-have-a-dream/</loc>
-        <lastmod>2013-08-24T00:40:07-04:00</lastmod>
+        <loc>http://blog.heropotato.com/blog/blog/2013/08/23/i-have-a-dream/</loc>
+        <lastmod>2013-08-25T02:06:48-04:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.heropotato.com/about/</loc>
-        <lastmod>2013-08-24T00:45:07-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.heropotato.com/archives/</loc>
-        <lastmod>2013-08-24T00:40:07-04:00</lastmod>
+        <loc>http://blog.heropotato.com/blog/about/</loc>
+        <lastmod>2013-08-25T02:06:48-04:00</lastmod>
     </url>
     <url>
         <loc>http://blog.heropotato.com/blog/archives/</loc>
-        <lastmod>2013-08-24T00:40:07-04:00</lastmod>
+        <lastmod>2013-08-25T02:06:48-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.heropotato.com/blog/blog/archives/</loc>
+        <lastmod>2013-08-25T02:10:08-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.heropotato.com/blog/blog/</loc>
+        <lastmod>2013-08-25T02:13:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.heropotato.com/blog/humans.txt</loc>
+        <lastmod>2013-08-25T00:29:08-04:00</lastmod>
     </url>
     <url>
         <loc>http://blog.heropotato.com/blog/</loc>
-        <lastmod>2013-08-24T00:40:07-04:00</lastmod>
+        <lastmod>2013-08-25T02:29:01-04:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.heropotato.com/</loc>
-        <lastmod>2013-08-24T00:40:07-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.heropotato.com/robots.txt</loc>
-        <lastmod>2013-08-24T00:40:07-04:00</lastmod>
+        <loc>http://blog.heropotato.com/blog/robots.txt</loc>
+        <lastmod>2013-08-25T02:06:48-04:00</lastmod>
     </url>
 </urlset>

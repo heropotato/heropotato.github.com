@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[wen]]></title>
-  <link href="http://blog.heropotato.com/atom.xml" rel="self"/>
-  <link href="http://blog.heropotato.com/"/>
-  <updated>2013-08-24T00:46:03-04:00</updated>
-  <id>http://blog.heropotato.com/</id>
+  <link href="http://blog.heropotato.com/blog/atom.xml" rel="self"/>
+  <link href="http://blog.heropotato.com/blog/"/>
+  <updated>2013-08-25T02:30:43-04:00</updated>
+  <id>http://blog.heropotato.com/blog/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
     <email><![CDATA[me@heropotato.com]]></email>
@@ -16,10 +16,10 @@
   <entry>
     
     <title type="html"><![CDATA[Get proactive or die trying]]></title>
-    <link href="http://blog.heropotato.com/blog/2013/08/23/i-have-a-dream/"/>
+    <link href="http://blog.heropotato.com/blog/blog/2013/08/23/i-have-a-dream/"/>
     
     <updated>2013-08-23T11:21:00-04:00</updated>
-    <id>http://blog.heropotato.com/blog/2013/08/23/i-have-a-dream</id>
+    <id>http://blog.heropotato.com/blog/blog/2013/08/23/i-have-a-dream</id>
     
     <content type="html"><![CDATA[<p><img src="http://farm4.staticflickr.com/3668/9317134263_e87445f5b1_o.jpg" /></p>
 ]]></content>
@@ -29,10 +29,10 @@
   <entry>
     
     <title type="html"><![CDATA[Initialization, done]]></title>
-    <link href="http://blog.heropotato.com/blog/2013/08/19/initialization/"/>
+    <link href="http://blog.heropotato.com/blog/blog/2013/08/19/initialization/"/>
     
     <updated>2013-08-19T01:35:00-04:00</updated>
-    <id>http://blog.heropotato.com/blog/2013/08/19/initialization</id>
+    <id>http://blog.heropotato.com/blog/blog/2013/08/19/initialization</id>
     
     <content type="html"><![CDATA[<p>Hello, world!</p>
 

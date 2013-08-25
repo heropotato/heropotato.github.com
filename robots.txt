@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.heropotato.com/sitemap.xml 
+Sitemap: http://blog.heropotato.com/blog/sitemap.xml 
