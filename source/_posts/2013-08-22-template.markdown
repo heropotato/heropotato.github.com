@@ -65,3 +65,12 @@ you wish to run the library.
 * [.asciidoc](http://www.methods.co.nz/asciidoc/) -- `brew install asciidoc`
 * [.pod](http://search.cpan.org/dist/perl/pod/perlpod.pod) -- `Pod::Simple::HTML`
   comes with Perl >= 5.10. Lower versions should install Pod::Simple from CPAN.
+
+{% blockquote %}
+5th subtitle
+{% endblockquote %}
+
+Twitter plug-in to embed tweet
+
+{% tweet https://twitter.com/levie/status/357334612411826176 align='center' maxwidth='550' %}
+

@@ -2,7 +2,7 @@
 layout: post
 title: "Initialization, done"
 date: 2013-08-19 01:35
-comments: true
+comments: false
 categories: [First post]
 ---
 
