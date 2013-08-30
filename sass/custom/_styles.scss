@@ -34,7 +34,7 @@ body {
 		
 		.header-title {
 			font-size: 2em;
-			text-transform: lowercase;
+			/* text-transform: lowercase; */
 			letter-spacing: 12px;
 			color: #222;
 			a {
@@ -49,7 +49,7 @@ body {
 		
 		.header-subtitle {
 			font-size: 1em;
-			text-transform: uppercase;
+			/* text-transform: uppercase; */
 			letter-spacing: 4px;
 			color: #3a8acc;
 		}
@@ -65,8 +65,8 @@ body {
 		background: #FFFFFF;
 		font-size: 20px;
 		font-weight: 100;
-		border-bottom: 1px solid #b0b0b0;
-		border-top: 1px solid #b0b0b0;
+		border-bottom: 1px none #b0b0b0;
+		border-top: 1px none #b0b0b0;
 		padding-left: 0px;
 		padding-right: 0px;
 
