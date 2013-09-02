@@ -5,15 +5,17 @@ comments: false
 sharing: false
 footer: true
 ---
-Hello, world!
+Yong **WEN** 
 
-I'm Yong WEN, a back-end developer with M.S degree in Information Systems from [Northeatern University][neuURL], a husband with marriage certificate from [City of Malden][maldenURL], and a father.
+Yong holds a M.S degree in Information Systems from [Northeatern University][neuURL].
 
-In the last decade, I used to work as editor, photographer and developer. Although job functionalities are completely different, one thing is in common: modeling the real world.
+In the past decade, Yong has worked as editor, photographer and developer. Although job functionalities are completely different, but one thing is in common: modeling the real world in virtual environments.
  
-When surfing the Internet, I would like to pin what I like on [Pinterest][PinterestURL], take a glance at tweets on [Twitter][TwitterURL], and read what great minds on [Medium][MediumURL]. 
+When not working, Yong would like to pin what he likes on [Pinterest][PinterestURL], take a glance at tweets on [Twitter][TwitterURL], and read what great minds on [Medium][MediumURL]. 
 
-If you want to keep in touch, send an [email][emailURL] or check my professional profile via [LinkedIn][LinkedInURL].
+If you want to get in touch, send an [email][emailURL] or check his professional profile via [LinkedIn][LinkedInURL].
+
+{% img http://farm4.staticflickr.com/3728/9319923266_41b75c1a86_o.jpg %}
 
 [maldenURL]: http://www.cityofmalden.org/
 [neuURL]: http://www.northeastern.edu/
@@ -21,4 +23,4 @@ If you want to keep in touch, send an [email][emailURL] or check my professional
 [PinterestURL]: http://pinterest.com/heropotato/
 [LinkedInURL]: http://www.linkedin.com/in/heropotato/
 [TwitterURL]: https://twitter.com/heropotato
-[emailURL]: mailto:heropotato@me.com
+[emailURL]: mailto:me@heropotato.com
