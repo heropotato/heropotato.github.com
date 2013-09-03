@@ -31,8 +31,8 @@ body {
 		font-family: 'Helvetica Neue', sans-serif;
 		font-weight: 100;
 		/* text-align: center; */
-                padding-left: inherit;
-		
+		padding-left: inherit;
+
 		.header-title {
 			font-size: 2em;
 			/* text-transform: lowercase; */
@@ -64,7 +64,7 @@ body {
 
 	> nav {
 		background: #FFFFFF;
-		font-size: 20px;
+		font-size: 1em;
 		font-weight: 100;
 		border-bottom: 1px none #b0b0b0;
 		border-top: 1px none #b0b0b0;
@@ -78,6 +78,7 @@ body {
            		font-size: 22px;
            		padding-left: 10px;
            		padding-right: 10px;
+                        color: #000000;
         	}
 		form .search {
 			font-family: 'Helvetica Neue', sans-serif;
@@ -161,17 +162,18 @@ article {
 	a, a:visited {
 		color: #1863A1;
 	}
+
 }
 
 #content {
 	div.pagination {
-		margin: 0 10px;  
+		margin: 0 10px;
 		padding-bottom: 1.5em;
 		margin-top: 4em;
 		position: relative;
 		text-align: center;
-		border-top: solid 1px #b0b0b0;
-		border-bottom: solid 1px #b0b0b0;
+		border-top: none 1px #b0b0b0;
+		border-bottom: none 1px #b0b0b0;
 		color: #888;
 		font-weight: 100;
 		background-image: none;
@@ -182,15 +184,34 @@ article {
 	}	
 
 	.blog-index {
+
+          padding-top: 2em;
+          padding-bottom: 0;
+
 		article {
-			padding-top: 4em;
+			padding-top: 0;
 
 			header {
-				padding-top: 2em;
+				padding-top: 1em;
 				padding-left: 0;
   				padding-right: 0;
-			}
+
+                                p.meta {
+                                  text-transform: uppercase;
+                                  position: relative;
+                                  top: 0;
+                                  float: right;
+                                }
+                        }
+
+                        h1 {
+                                font-size: 1.5em;
+                        }
 		}
+
+                article + article {
+                  background: none;
+                }
 
 		h1 { // Post Title
 			a {
@@ -263,7 +284,6 @@ h1.entry-title {
 	h2 {
 		font-family: 'Helvetica Neue', sans-serif;
 		font-weight: 100;
-                float: right;
 	}
 
 	article {
@@ -273,7 +293,6 @@ h1.entry-title {
 				font-family: 'Helvetica Neue', sans-serif;
 				font-weight: 100;
 				text-decoration: none;
-                                padding-left: inherit;
 			}
 		}
 
@@ -281,9 +300,6 @@ h1.entry-title {
 			font-family: 'Helvetica Neue', sans-serif;
 			font-weight: 100;
 			font-size: 0.9em;
-                        /* text-transform: none; */
-                        /* float: right; */
-                        padding-right: inherit;
 		}
 	}
 }
@@ -307,5 +323,5 @@ h1.entry-title {
 }
 
 .lastname {
-    font-weight: bold;
+      font-weight: bold;
 }
