@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Il buono, il brutto, il cattivo"
+date: 2013-09-04 09:19
+comments: false
+categories: ["Wyatt", "5D Mark II", "EF 35mm f/1.4L"]
+---
+{% pullquote %}
+Introducing Mr.**Wyatt**, the minion version of me. In his entire life so far, he allocates attentions on everything that seems attractive: {" The Good, the Bad and the Ugly"}. In person, I would get him adquately prepared when he hitting the road, if I could. Apparently, that is not what happened. Enjoy your journey on earth, my dear **Wyatt**.
+{% endpullquote %}
+
+{% img http://farm4.staticflickr.com/3668/9317134263_b0d4bd7b25_k.jpg %}
+
+{% img http://farm3.staticflickr.com/2811/9317134791_5827a8194c_k.jpg %}
+
+{% img http://farm3.staticflickr.com/2807/9317135155_0a078a007e_k.jpg %}
+
+{% img http://farm8.staticflickr.com/7371/9319926514_3775affac7_k.jpg %}
+
+{% img http://farm4.staticflickr.com/3768/9317136319_c5379faac5_k.jpg %}
