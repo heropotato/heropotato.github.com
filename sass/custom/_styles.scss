@@ -146,6 +146,10 @@ body {
 				}
                                 header{
                                     padding-bottom: 0;
+                                    background: none;
+                                    /* border-bottom-style: inset; */
+                                    /* border-bottom-width: thin; */
+
                                     p.meta {
                                       text-transform: uppercase;
                                       position: relative;
@@ -162,6 +166,16 @@ body {
                                     padding-top: 1.25em;
                                     font-size: small;
                                   }
+                                }
+
+                                p.meta+.sharing {
+                                  padding-top: 1em;
+                                  padding-left: 0;
+                                  background: none;
+                                  border-top: 1px solid #eee;
+                                  /* border-top-style: solid; */
+                                  /* border-top-width: thin; */
+                                  /* border-top-color: #aaa; */
                                 }
 			}	
 		}
