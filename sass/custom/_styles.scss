@@ -326,12 +326,14 @@ h1.entry-title {
 }
 
 #blog-archives {
+
 	h2 {
 		font-family: 'Helvetica Neue', sans-serif;
 		font-weight: 100;
 	}
 
 	article {
+                background: none;
 		h1 {
 			a, a:hover {
 				margin-left: 2.0em;	
