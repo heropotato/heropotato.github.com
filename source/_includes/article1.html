@@ -10,7 +10,7 @@
       {% endif %}
       {% else %}
     {% if page.external-url %}
-    <timetag class="meta"> {% include post/date.html %}{{ time }} </timetag>
+      <timetag class="meta"> {% include post/date.html %}{{ time }} </timetag>
       <h1 class="entry-title"><a href="{{ page.external-url }}">{% if site.titlecase %}{{ page.title | titlecase }} {% else %}{{ page.title }}{% endif %}</a> &#8734;</h1>
       {% else %}
       <timetag class="meta"> {% include post/date.html %}{{ time }} </timetag>
@@ -28,7 +28,7 @@
   </header>
 {% endunless %}
 {% if index %}
-  <div class="entry-content">{{ content | excerpt }}</div>
+<div class="entry-content"></div>
   {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
   {% if excerpted == 'true' %}
     <footer>
@@ -36,5 +36,6 @@
     </footer>
   {% endif %}
 {% else %}
-<div class="entry-content">{{ content }}</div>
+<div class="entry-content"></div>
 {% endif %}
+
