@@ -1,0 +1,13 @@
+---
+layout: post
+title: "No img"
+date: 2013-09-05 10:44
+comments: true
+published: false
+categories: 
+---
+{% blockquote %}
+A test post with no img tag
+{% endblockquote%}
+
+Stand for testing purposes.
