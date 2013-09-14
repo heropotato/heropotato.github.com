@@ -11,6 +11,8 @@ Since graduated from [NEU][] with a M.S degree, I have been on job-hunting journ
 
 In case of any issues or bugs in my solutions, please send an [email][] without any hesitation.
 
+{% img http://farm8.staticflickr.com/7027/6579749183_8f06a25fdc_o.jpg %}
+
 [email]: mailto:dev.yongwen@gmail.com
 [NEU]: http://www.northeastern.edu/
 [LeetCode online judge]: http://leetcode.com/onlinejudge
