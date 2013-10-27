@@ -1,19 +1,17 @@
 ---
-layout: page
-title:
-comments: false
-sharing: false
-footer: true
+layout: default
 ---
-<div id="blog-archives">
-{% for post in site.posts reverse %}
-{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-{% unless year == this_year %}
-  {% assign year = this_year %}
-  <h2>{{ year }}</h2>
-{% endunless %}
-<article>
-  {% include archive_post.html %}
-</article>
+
+{% assign index = true %}
+{% for post in paginator.posts %}
+{% assign content = post.content %}
+    <article class="post">{% include article.html %}</article>
 {% endfor %}
-</div>
+<nav id="pagenavi">
+    {% if paginator.previous_page %}
+        <a href="{{paginator.previous_page}}" class="prev">Previous</a>
+    {% endif %}
+    {% if paginator.next_page %}
+        <a href="{{paginator.next_page}}" class="next">Next</a>
+    {% endif %}
+</nav>
