@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coding practices"
+title: "LeetCode solutions"
 date: 2013-09-13 15:36
 comments: true
 categories: ["GitHub", "LeetCode", "Java"]
