@@ -4,7 +4,7 @@
   <title><![CDATA[WEN]]></title>
   <link href="http://blog.heropotato.com/atom.xml" rel="self"/>
   <link href="http://blog.heropotato.com/"/>
-  <updated>2013-10-27T19:23:49-04:00</updated>
+  <updated>2013-10-30T11:33:47-04:00</updated>
   <id>http://blog.heropotato.com/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
@@ -23,7 +23,8 @@
 
 <p>In case of any issues or bugs in my solutions, please send an <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#100;&#101;&#118;&#046;&#121;&#111;&#110;&#103;&#119;&#101;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">email</a> without any hesitation.</p>
 
-<p><img src="http://farm8.staticflickr.com/7027/6579749183_8f06a25fdc_o.jpg" /></p>
+<div class="github-widget" data-repo="heropotato/leetcode"></div>
+<script type="text/javascript" src="http://blog.heropotato.com/javascripts/jquery.githubRepoWidget.min.js"></script>
 
 ]]></content>
   </entry>
