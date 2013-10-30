@@ -2,7 +2,7 @@
 layout: post
 title: "LeetCode solutions"
 date: 2013-09-13 15:36
-comments: true
+comments: false
 categories: ["GitHub", "LeetCode", "Java"]
 ---
 Since graduated from [NEU][] with a M.S degree, I have been on job-hunting journey. Meanwhile, my interview preparations primarily focus on whiteboard coding practices. Being tired of looking for appropriate coding practices online until find out [LeetCode online judge][].
