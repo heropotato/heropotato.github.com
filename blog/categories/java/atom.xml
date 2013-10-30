@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Java | WEN]]></title>
   <link href="http://blog.heropotato.com/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://blog.heropotato.com/"/>
-  <updated>2013-10-30T11:33:47-04:00</updated>
+  <updated>2013-10-30T11:35:04-04:00</updated>
   <id>http://blog.heropotato.com/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Coding practices]]></title>
+    <title type="html"><![CDATA[LeetCode solutions]]></title>
     <link href="http://blog.heropotato.com/blog/2013/09/13/push-to-github/"/>
     <updated>2013-09-13T15:36:00-04:00</updated>
     <id>http://blog.heropotato.com/blog/2013/09/13/push-to-github</id>
