@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Java | WEN]]></title>
   <link href="http://blog.heropotato.com/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://blog.heropotato.com/"/>
-  <updated>2013-10-31T12:39:29-04:00</updated>
+  <updated>2013-11-23T19:05:05-05:00</updated>
   <id>http://blog.heropotato.com/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GitHub Repository of my LeetCode solutions]]></title>
+    <link href="http://blog.heropotato.com/blog/2013/10/30/github-repository-of-my-leetcode-solutions/"/>
+    <updated>2013-10-30T11:20:00-04:00</updated>
+    <id>http://blog.heropotato.com/blog/2013/10/30/github-repository-of-my-leetcode-solutions</id>
+    <content type="html"><![CDATA[<p>Test</p>
+
+<p><div class="github-widget" data-repo="heropotato/LeetCode/"></div><script type="text/javascript" src="/javascripts/jquery.githubRepoWidget.min.js"></script></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[LeetCode solutions]]></title>
