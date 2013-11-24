@@ -1,0 +1,22 @@
+---
+layout: post
+title: "face"
+date: 2013-11-23 20:51
+comments: false
+categories: 
+---
+
+Facebook embedded
+
+{% facebook_embedded_post https://www.facebook.com/FacebookDevelopers/posts/10151471074398553 %}
+
+
+#Apple App Store
+
+{% appbox appstore screenshots 403639508 %}
+
+#Google PlayStore
+
+{% appbox googleplay screenshots com.path&hl=en %}
+
+
