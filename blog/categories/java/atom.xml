@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Java | WEN]]></title>
+  <link href="http://blog.heropotato.com/blog/categories/java/atom.xml" rel="self"/>
+  <link href="http://blog.heropotato.com/"/>
+  <updated>2013-11-24T01:17:22-05:00</updated>
+  <id>http://blog.heropotato.com/</id>
+  <author>
+    <name><![CDATA[Yong WEN]]></name>
+    <email><![CDATA[me@heropotato.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[LeetCode solutions]]></title>
+    <link href="http://blog.heropotato.com/blog/2013/09/13/push-to-github/"/>
+    <updated>2013-09-13T15:36:00-04:00</updated>
+    <id>http://blog.heropotato.com/blog/2013/09/13/push-to-github</id>
+    <content type="html"><![CDATA[<p>Since graduated from <a href="http://www.northeastern.edu/">NEU</a> with a M.S degree, I have been on job-hunting journey. Meanwhile, my interview preparations primarily focus on whiteboard coding practices. Being tired of looking for appropriate coding practices online until find out <a href="http://leetcode.com/onlinejudge">LeetCode online judge</a>.</p>
+
+<p><a href="http://leetcode.com/onlinejudge">LeetCode online judge</a>, covering most data structures and algorithms questions, is an effective way of preparing technical interviews in general. By cracking questions, I push my solutions to <a href="https://github.com/heropotato/LeetCode/tree/master/src">GitHub repository</a> for reviewing purposes. Some of solutions have been inspired by and have been learned from others’ contributions on web.</p>
+
+<p>In case of any issues or bugs in my solutions, please send an <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#100;&#101;&#118;&#046;&#121;&#111;&#110;&#103;&#119;&#101;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">email</a> without any hesitation.</p>
+
+<p><div class="github-widget" data-repo="heropotato/leetcode"></div><script type="text/javascript" src="/javascripts/jquery.githubRepoWidget.min.js"></script></p>
+
+]]></content>
+  </entry>
+  
+</feed>

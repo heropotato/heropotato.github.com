@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 5D Mark II | WEN]]></title>
+  <link href="http://blog.heropotato.com/blog/categories/5d-mark-ii/atom.xml" rel="self"/>
+  <link href="http://blog.heropotato.com/"/>
+  <updated>2013-11-24T01:17:22-05:00</updated>
+  <id>http://blog.heropotato.com/</id>
+  <author>
+    <name><![CDATA[Yong WEN]]></name>
+    <email><![CDATA[me@heropotato.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Il buono, il brutto, il cattivo]]></title>
+    <link href="http://blog.heropotato.com/blog/2013/09/04/mini-me/"/>
+    <updated>2013-09-04T09:19:00-04:00</updated>
+    <id>http://blog.heropotato.com/blog/2013/09/04/mini-me</id>
+    <content type="html"><![CDATA[<p>Surround your pullquote like this {" text to be quoted "}</p>
+
+<p><img src="http://farm4.staticflickr.com/3668/9317134263_b0d4bd7b25_k.jpg"></p>
+
+<p><img src="http://farm3.staticflickr.com/2811/9317134791_5827a8194c_k.jpg"></p>
+
+<p><img src="http://farm3.staticflickr.com/2807/9317135155_0a078a007e_k.jpg"></p>
+
+<p><img src="http://farm8.staticflickr.com/7371/9319926514_3775affac7_k.jpg"></p>
+
+<p><img src="http://farm4.staticflickr.com/3768/9317136319_c5379faac5_k.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>

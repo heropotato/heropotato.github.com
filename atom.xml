@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[WEN]]></title>
+  <link href="http://blog.heropotato.com/atom.xml" rel="self"/>
+  <link href="http://blog.heropotato.com/"/>
+  <updated>2013-11-24T01:17:22-05:00</updated>
+  <id>http://blog.heropotato.com/</id>
+  <author>
+    <name><![CDATA[Yong WEN]]></name>
+    <email><![CDATA[me@heropotato.com]]></email>
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[LeetCode solutions]]></title>
+    <link href="http://blog.heropotato.com/blog/2013/09/13/push-to-github/"/>
+    <updated>2013-09-13T15:36:00-04:00</updated>
+    <id>http://blog.heropotato.com/blog/2013/09/13/push-to-github</id>
+    <content type="html"><![CDATA[<p>Since graduated from <a href="http://www.northeastern.edu/">NEU</a> with a M.S degree, I have been on job-hunting journey. Meanwhile, my interview preparations primarily focus on whiteboard coding practices. Being tired of looking for appropriate coding practices online until find out <a href="http://leetcode.com/onlinejudge">LeetCode online judge</a>.</p>
+
+<p><a href="http://leetcode.com/onlinejudge">LeetCode online judge</a>, covering most data structures and algorithms questions, is an effective way of preparing technical interviews in general. By cracking questions, I push my solutions to <a href="https://github.com/heropotato/LeetCode/tree/master/src">GitHub repository</a> for reviewing purposes. Some of solutions have been inspired by and have been learned from others’ contributions on web.</p>
+
+<p>In case of any issues or bugs in my solutions, please send an <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#100;&#101;&#118;&#046;&#121;&#111;&#110;&#103;&#119;&#101;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">email</a> without any hesitation.</p>
+
+<div class="github-widget" data-repo="heropotato/leetcode"></div>
+<script type="text/javascript" src="http://blog.heropotato.com/javascripts/jquery.githubRepoWidget.min.js"></script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Il buono, il brutto, il cattivo]]></title>
+    <link href="http://blog.heropotato.com/blog/2013/09/04/mini-me/"/>
+    <updated>2013-09-04T09:19:00-04:00</updated>
+    <id>http://blog.heropotato.com/blog/2013/09/04/mini-me</id>
+    <content type="html"><![CDATA[<p><span class="pullquote-right" data-pullquote="The Good, the Bad and the Ugly">
+Introducing Mr.<strong>Wyatt</strong>, the minion version of me. In his entire life so far, he allocates attentions on everything that seems attractive: The Good, the Bad and the Ugly. In person, I would get him adquately prepared when he hitting the road, if I could. Apparently, that is not what happened. Enjoy your journey on planet earth, my dear <strong>Wyatt</strong>.
+</span></p>
+
+<p><img src="http://farm4.staticflickr.com/3668/9317134263_b0d4bd7b25_k.jpg" /></p>
+
+<p><img src="http://farm3.staticflickr.com/2811/9317134791_5827a8194c_k.jpg" /></p>
+
+<p><img src="http://farm3.staticflickr.com/2807/9317135155_0a078a007e_k.jpg" /></p>
+
+<p><img src="http://farm8.staticflickr.com/7371/9319926514_3775affac7_k.jpg" /></p>
+
+<p><img src="http://farm4.staticflickr.com/3768/9317136319_c5379faac5_k.jpg" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Initialization, done]]></title>
+    <link href="http://blog.heropotato.com/blog/2013/08/19/initialization/"/>
+    <updated>2013-08-19T01:35:00-04:00</updated>
+    <id>http://blog.heropotato.com/blog/2013/08/19/initialization</id>
+    <content type="html"><![CDATA[<p>Hello, world!</p>
+
+<p>With spending a few hours on setting up and configuration, this little Jekyll blog has worked at long last. Pretty happy with it. </p>
+
+<p><img src="http://farm8.staticflickr.com/7442/9317134937_33146b8a86_k.jpg" /></p>
+]]></content>
+  </entry>
+  
+</feed>
