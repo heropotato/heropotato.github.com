@@ -4,7 +4,7 @@
   <title><![CDATA[Category: LeetCode | WEN]]></title>
   <link href="http://blog.heropotato.com/blog/categories/leetcode/atom.xml" rel="self"/>
   <link href="http://blog.heropotato.com/"/>
-  <updated>2013-11-23T19:05:05-05:00</updated>
+  <updated>2013-11-23T21:02:46-05:00</updated>
   <id>http://blog.heropotato.com/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
@@ -12,17 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[GitHub Repository of my LeetCode solutions]]></title>
-    <link href="http://blog.heropotato.com/blog/2013/10/30/github-repository-of-my-leetcode-solutions/"/>
-    <updated>2013-10-30T11:20:00-04:00</updated>
-    <id>http://blog.heropotato.com/blog/2013/10/30/github-repository-of-my-leetcode-solutions</id>
-    <content type="html"><![CDATA[<p>Test</p>
-
-<p><div class="github-widget" data-repo="heropotato/LeetCode/"></div><script type="text/javascript" src="/javascripts/jquery.githubRepoWidget.min.js"></script></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[LeetCode solutions]]></title>
@@ -35,7 +24,7 @@
 
 <p>In case of any issues or bugs in my solutions, please send an <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#100;&#101;&#118;&#046;&#121;&#111;&#110;&#103;&#119;&#101;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">email</a> without any hesitation.</p>
 
-<p><div class="github-widget" data-repo="heropotato/leetcode"></div><script type="text/javascript" src="/javascripts/jquery.githubRepoWidget.min.js"></script></p>
+<p>{% githubrepo heropotato/leetcode %}</p>
 
 ]]></content>
   </entry>

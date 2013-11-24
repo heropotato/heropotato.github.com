@@ -4,7 +4,7 @@
   <title><![CDATA[Category: First post | WEN]]></title>
   <link href="http://blog.heropotato.com/blog/categories/first-post/atom.xml" rel="self"/>
   <link href="http://blog.heropotato.com/"/>
-  <updated>2013-11-23T19:05:05-05:00</updated>
+  <updated>2013-11-23T21:02:46-05:00</updated>
   <id>http://blog.heropotato.com/</id>
   <author>
     <name><![CDATA[Yong WEN]]></name>
@@ -22,7 +22,7 @@
 
 <p>With spending a few hours on setting up and configuration, this little Jekyll blog has worked at long last. Pretty happy with it. </p>
 
-<p><img src="http://farm8.staticflickr.com/7442/9317134937_33146b8a86_k.jpg"></p>
+<p>{% img http://farm8.staticflickr.com/7442/9317134937_33146b8a86_k.jpg %}</p>
 ]]></content>
   </entry>
   
