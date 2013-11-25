@@ -1,374 +1,117 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-html {
-	background: #FFFFFF;
+.inner-left>header {
+  position: absolute;
+  bottom: 5em;
+  padding: .4em .75em;
+  border-radius: 3px;
 }
 
-body {
-	font-family: 'Helvetica Neue', sans-serif;
-	font-size: 16px;
-	font-weight: lighter;
-	color: #333;
-	max-width: 750px;
-	padding-left: 0.5em;
-	padding-right: 0.5em;
-	
-	h1, h2, h3, h4, h5 {
-		font-family: 'Helvetica Neue', sans-serif;
-		font-weight: 100;
-	}
+.inner-left>header h2 {
+  color: #FFFFFF;
+  font-style: italic;
+  font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-overflow: ellipsis;
+  margin-top: -3em;
+}
 
-	a:hover {
-		color: #3a8acc !important;
-		background: #FFFFFF;
-	}
+article header p.meta {
+  text-transform: none;
+  color: #b3b3b1;
+  font-size: 16px;
+}
 
-	> header {
-		background: #ffffff;
-		padding-top: 2em;
-		/* padding-bottom: 2em; */
-		font-family: 'Helvetica Neue', sans-serif;
-		font-weight: 100;
-		/* text-align: center; */
-		padding-left: inherit;
+.inner-right>footer {
+  font-size: 14px;
+  color: #b3b3b1;
+}
 
-		.header-title {
-			font-size: 2em;
-			/* text-transform: lowercase; */
-			letter-spacing: 12px;
-			color: #222;
-			a {
-				color: #222;
-				text-decoration: none;
-			}
-			
-			a:hover {
-				color: #3a8acc;
-			};
-		}
-		
-		.header-subtitle {
-			font-size: .75em;
-			/* text-transform: uppercase; */
-			letter-spacing: 4px;
-			color: #3a8acc;
-		}
-		
-		h1 {
-			a, a:visited, a:hover {
-				color: #8c8c8c;
-			}
-		}
-	}
+body div.pagination {
+  font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #b3b3b1;
+}
 
-	> nav {
-		background: #FFFFFF;
-		font-size: .75em;
-		font-weight: 100;
-		border-bottom: 1px none #b0b0b0;
-		border-top: 1px none #b0b0b0;
-		padding-left: initial; /* 0px; */
-		padding-right: 0px;
+article header p.meta {
+  font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+}
 
-		a {
-				font-family: 'Helvetica Neue', sans-serif;
-           		text-decoration: none;
-				text-shadow: none;
-           		font-size: 22px;
-           		padding-left: 10px;
-           		padding-right: 10px;
-                        color: #000000;
-        	}
-		form .search {
-			font-family: 'Helvetica Neue', sans-serif;
-			font-weight: 100;
-			border-radius: 0.2em 0.2em 0.2em 0.2em;
-			box-shadow: none;
-			border: 0px;
-			padding-top: 0.3em;
-			padding-bottom: 0.3em;
-			padding-left: 0.5em;
-			padding-right: 0.5em;
-			background: #f8f8f8;
-		}
+article header h1 {
+  font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  font-size: 38px;
+  font-weight: 700;
+}
 
-		li + li {
-			border-left: 0px;
-			a {
-				border: 0px;
-			}
-		}
-	}
+.inner-left>header h1 a {
+  font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 32px;
+}
 
-	> div {
-		background: #FFFFFF;
-		border-bottom: 0px;
+.credit {
+  font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+}
 
-		> div {
-			background: #FFFFFF;
-			border-right-width: 0px;
-		}
-	}
+.entry-content {
+  font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+  letter-spacing: normal;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 1.45;
+}
 
-	> footer {
-		text-align: center;
-		background: #FFFFFF;
-		text-shadow: none;
-		color: #BBB;
-	  	padding-left: 0;
-	  	padding-right: 0;
-		border-top: 0px;
-		padding-left: 0px;
-		padding-right: 0px;
-		font-size: 14px;
-		font-family: 'Helvetica Neue', sans-serif;
-		font-weight: 100;
-	}
+p {
+  font-family: inherit;
+}
 
-	#content {
-		padding-left: .7em;
-                > article {
-			padding-top: 2em;
-			padding-left: 0px;
-			padding-right: 0px;
+.inner-left>header h1 {
+  letter-spacing: normal;
+  text-transform: none;
+}
 
-		}
-
-		> div {
-			> article {
-				padding-left: 0px;
-				padding-right: 0px;
-				padding-top: 2.3em;
-				h1, h2, h3, h4, h5 {
-					font-family: 'Helvetica Neue', sans-serif;
-					font-weight: 100;
-				}
-                                header{
-                                    padding-bottom: 0;
-                                    background: none;
-                                    /* border-bottom-style: inset; */
-                                    /* border-bottom-width: thin; */
-
-                                    p.meta {
-                                      text-transform: uppercase;
-                                      position: relative;
-                                      top: 0;
-                                      float: right;
-                                    }
-  
-                                    timetag.meta{
-                                    float: right;
-                                    font-family: 'Helvetica Neue', sans-serif;
-                                    font-weight: 100;
-                                    letter-spacing: 1px;
-                                    color: #aaa;
-                                    padding-top: 1.25em;
-                                    font-size: small;
-                                  }
-                                }
-
-                                p.meta+.sharing {
-                                  padding-top: 1em;
-                                  padding-left: 0;
-                                  background: none;
-                                  border-top: 1px solid #eee;
-                                  /* border-top-style: solid; */
-                                  /* border-top-width: thin; */
-                                  /* border-top-color: #aaa; */
-                                }
-			}	
-		}
-	}
+article header h1 a {
+  text-decoration: none;
+  color: #333332;
 }
 
 article {
-
-	.entry-content {
-		h3 {
-			font-style: italic;
-		}
-	}
-
-	ul, ol {
-		margin-left: 2em;
-	}
-
-	a, a:visited {
-		color: #1863A1;
-	}
-
+  font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+  letter-spacing: normal;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 1.45;
 }
 
-#content {
-	div.pagination {
-		margin: 0 10px;
-		padding-bottom: 1.5em;
-		margin-top: 4em;
-		position: relative;
-		text-align: center;
-		border-top: none 1px #b0b0b0;
-		border-bottom: none 1px #b0b0b0;
-		color: #888;
-		font-weight: 100;
-		background-image: none;
-	}
-
-	div.pagination a {
-		color: #888;
-	}	
-
-	.blog-index {
-
-          padding-top: 2em;
-          padding-bottom: 0;
-
-		article {
-			padding-top: 0;
-
-			header {
-				padding-top: 1em;
-				padding-left: 0;
-  				padding-right: 0;
-
-                                p.meta {
-                                  text-transform: uppercase;
-                                  position: relative;
-                                  top: 0;
-                                  float: right;
-                                }
-
-                                timetag.meta{
-                                  float: right;
-                                  font-family: 'Helvetica Neue', sans-serif;
-                                  font-weight: 100;
-                                  letter-spacing: 1px;
-                                  color: #aaa;
-                                  font-size: small;
-                                  padding-top: 12px;
-                                }
-                        }
-
-                        h1 {
-                                font-size: 1.5em;
-                        }
-		}
-
-                article + article {
-                  background: none;
-                }
-
-		h1 { // Post Title
-			a {
-				font-family: 'Helvetica Neue', sans-serif;
-				font-weight: 100;
-				font-size: 1.25em;
-				line-height: 1.2em;
-			}
-
-			a:hover {
-				text-decoration: none;
-			}
-		}
-
-		time {
-			font-family: 'Helvetica Neue', sans-serif;
-			font-weight: 100;
-			letter-spacing: 1px;
-			text-transform: none;
-		}
+.btn-light {
+  color: #FFFFFF;
+  background-color: transparent;
+  border: 1px solid #dedede;
 }
 
-	.hentry {
-		h1.entry-title {
-			font-family: 'Helvetica Neue', sans-serif;
-			font-weight: 100;
-			font-size: 2em;		
-		}
-
-		time {
-			font-family: 'Helvetica Neue', sans-serif;
-			font-weight: 100;
-			letter-spacing: 1px;
-			text-transform: none;
-		}
-	}
+.left {
+background-size: cover;
+background-image: url('/images/bg.png');
 }
 
-figure.code {
-	.highlight {
-		.gutter {
-			.line-numbers {
-				background: #ffffff !important;
-				text-shadow: none;
-				border-right: 1px solid #ccc !important;
-			}
-		}
-	}
+a {
+  color: #3498db;
 }
 
-.highlight {
-	border: 1px solid #ccc !important;
-}
-
-.pre-code, html .gist .gist-file .gist-syntax .highlight pre, .highlight code {
-	background: #fafafa !important;
-}
-
-
-aside {
-	display: none;
-}
-
-h1.entry-title {
-	font-family: 'Helvetica Neue', sans-serif;
-	font-weight: 100;
-}
-
-#blog-archives {
-
-	h2 {
-		font-family: 'Helvetica Neue', sans-serif;
-		font-weight: 100;
-	}
-
-	article {
-                background: none;
-		h1 {
-			a, a:hover {
-				margin-left: 2.0em;	
-				font-family: 'Helvetica Neue', sans-serif;
-				font-weight: 100;
-				text-decoration: none;
-			}
-		}
-
-		time {
-			font-family: 'Helvetica Neue', sans-serif;
-			font-weight: 100;
-			font-size: 0.9em;
-		}
-	}
-}
-
-.embed-video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16/9 ratio */
-    padding-top: 30px; /* IE6 workaround*/
-    height: 0;
-    overflow: hidden;
-}
-
-.embed-video-container iframe,
-.embed-video-container object,
-.embed-video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-.lastname {
-      font-weight: bold;
+.inner-left>header h3 a {
+  font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  vertical-align: baseline;
+  margin-top: -1em;
+  min-width: inherit;
+  line-height: 1.5em;
 }
