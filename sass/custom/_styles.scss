@@ -3,7 +3,7 @@
 
 .inner-left>header {
   position: absolute;
-  bottom: 5em;
+  bottom: 1em;
   padding: .4em .75em;
   border-radius: 3px;
 }
@@ -80,6 +80,10 @@ p {
 article header h1 a {
   text-decoration: none;
   color: #333332;
+}
+
+article header h1 a:link {
+  text-decoration: none;
 }
 
 article {
