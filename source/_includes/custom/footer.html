@@ -1,12 +1,5 @@
-<br>
-<br>
-<br>
-<br>
-&copy; {{ site.time | date: "%Y" }}
-<a href="mailto:me@heropotato.com">
-{% if site.author %}
-    {{ site.author }}
-{% else %}
-  {{ site.title }}
-{% endif %}
-</a>
+<center>
+  <p class="credit">
+&copy; {{ site.time | date: "%Y" }}  <a href="mailto:me@heropotato.com">{{ site.author }}</a>
+  </p>
+</center>
