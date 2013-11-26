@@ -119,3 +119,31 @@ a {
   min-width: inherit;
   line-height: 1.5em;
 }
+
+#blog-archives a.category {
+  color: #3498db;
+  font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+}
+
+#blog-archives time {
+color: #b3b3b1;
+font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+font-size: 16px;
+}
+
+#blog-archives h1 a {
+font-weight: 700;
+font-size: 100%;
+font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+color: #2f2b28;
+}
+
+#blog-archives h2 {
+color: #b3b3b1;
+font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+}
+
+#blog-archives h1 a:link {
+  text-decoration: none;
+  color: #2f2b28;
+}
