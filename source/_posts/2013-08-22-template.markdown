@@ -4,7 +4,7 @@ title: "template"
 date: 2013-08-22 01:48
 comments: true
 published: false
-categories: 
+categories:
 ---
 This is the template for general referencings. 
 
@@ -22,7 +22,7 @@ This is the template for general referencings.
 
 ###2nd-1st subtitle
 
-{% codeblock Java lang:java %}
+{% codeblock lang:java %}
 public static void main(String[] args){
 	System.out.println("Hello, world!");
 }
