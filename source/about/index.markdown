@@ -13,7 +13,7 @@ In the past decade, Yong has worked as editor, photographer and developer. Altho
  
 When not working, Yong would like to pin what he likes on [Pinterest][PinterestURL], take a glance at tweets on [Twitter][TwitterURL], and read what great minds thought on [Medium][MediumURL]. 
 
-If you want to get in touch, send an [email][emailURL] or check his professional profile via [LinkedIn][LinkedInURL].
+If you want to get in touch, send an [email][emailURL] or check his [site][].
 
 {% img http://farm4.staticflickr.com/3728/9319923266_41b75c1a86_o.jpg %}
 
@@ -21,6 +21,6 @@ If you want to get in touch, send an [email][emailURL] or check his professional
 [neuURL]: http://www.northeastern.edu/
 [MediumURL]: https://medium.com/@heropotato
 [PinterestURL]: http://pinterest.com/heropotato/
-[LinkedInURL]: http://www.linkedin.com/in/heropotato/
+[site]: http://www.heropotato.com
 [TwitterURL]: https://twitter.com/heropotato
 [emailURL]: mailto:me@heropotato.com
