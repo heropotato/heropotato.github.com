@@ -5,9 +5,13 @@ date: 2013-09-04 09:19
 comments: false
 categories: ["Wyatt", "5D Mark II", "EF 35mm f/1.4L"]
 ---
+Introducing Mr.**Wyatt**, the minion version of me.
+
 {% pullquote %}
-Introducing Mr.**Wyatt**, the minion version of me. In his entire life so far, he allocates attentions on everything that seems attractive: {" The Good, the Bad and the Ugly"}. In person, I would get him adquately prepared when he hitting the road, if I could. Apparently, that is not what happened. Enjoy your journey on planet earth, my dear **Wyatt**.
+In his entire life so far, he allocates attentions on everything attractive: {" The Good, the Bad and the Ugly"}. In person, I would get him adquately prepared when he hitting the road, if I could.
 {% endpullquote %}
+
+Enjoy your journey on planet earth, my dear **Wyatt**.
 
 {% img http://farm4.staticflickr.com/3668/9317134263_b0d4bd7b25_k.jpg %}
 
